@@ -149,37 +149,51 @@ hr {
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #e5e5e5;
+	/* background: url(../img/intro-bg.jpg) no-repeat center top; */
+	background-color: #669999;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
 }
+
 .section-title.center {
 	padding: 10px 0 40px 0;
 }
+
 .image {
 	border-radius: 50%;
 	height: 220px;
 	width: 220px;
 	background-color: black;
+	background-image: url("../img/portfolio/04-small.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	margin: 0 auto;
 	margin-bottom: 80px;
 }
+
 .intro h1 {
 	font-size: 40px;
 	font-weight: 600;
-	letter-spacing: 2px;
+	/* letter-spacing: 2px; */
 	text-transform: none;
 	margin-bottom: 20px;
+	text-align: center;
 	color: #333;
 }
+
 .intro p {
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 20px;
 }
+
+.front-page-h1 {
+	line-height:60px;
+}
+
 header .intro-text {
 	padding-top: 100px;
 	padding-bottom: 100px;
