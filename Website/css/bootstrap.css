@@ -1641,7 +1641,7 @@ pre code {
   width: 33.33333333%;
 }
 .col-xs-3 {
-  width: 25%;
+  width: 75%;
 }
 .col-xs-2 {
   width: 16.66666667%;
@@ -1677,7 +1677,7 @@ pre code {
   right: 33.33333333%;
 }
 .col-xs-pull-3 {
-  right: 25%;
+  right: 75%;
 }
 .col-xs-pull-2 {
   right: 16.66666667%;
@@ -1716,7 +1716,7 @@ pre code {
   left: 33.33333333%;
 }
 .col-xs-push-3 {
-  left: 25%;
+  left: 75%;
 }
 .col-xs-push-2 {
   left: 16.66666667%;
@@ -1798,7 +1798,7 @@ pre code {
     width: 33.33333333%;
   }
   .col-sm-3 {
-    width: 25%;
+    width: 100%;
   }
   .col-sm-2 {
     width: 16.66666667%;
@@ -1956,7 +1956,7 @@ pre code {
     width: 33.33333333%;
   }
   .col-md-3 {
-    width: 25%;
+    width: 100%;
   }
   .col-md-2 {
     width: 16.66666667%;
@@ -2114,7 +2114,7 @@ pre code {
     width: 33.33333333%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: 100%;
   }
   .col-lg-2 {
     width: 16.66666667%;
