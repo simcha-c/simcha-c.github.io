@@ -8576,3 +8576,13 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+
+			/* My CSS */
+
+			.my-name {
+				color: #da4c5d;
+				font-weight: bold;
+				font-size: 32px;
+				padding-left: 5px;
+			}
