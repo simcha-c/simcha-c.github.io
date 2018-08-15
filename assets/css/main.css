@@ -2607,7 +2607,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		border: 0;
+		border: 5px solid white;
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
@@ -8638,11 +8638,28 @@ input, select, textarea {
 		height: 200px;
 		border-radius: 50%;
 		object-fit: cover;
-		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
 		border: 5px solid rgba(0, 0, 0, 0.2);
 	}
 
 	.image-container {
 		width: 100px;
 		height: auto;
+	}
+
+	.content {
+		padding: 50px;
+		margin-top: -10px;
+		background: rgba(255,255,255,0.90);
+		border-radius: 5px;
+	}
+
+	.banner {
+		background-image: url("../../images/banner.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		padding-left: 50px;
+	}
+
+	.hi {
+		margin-left: -10px;
 	}
