@@ -8621,3 +8621,14 @@ input, select, textarea {
 	.margin-class {
 		margin-top: 14px;
 	}
+
+	.my-resume {
+		width: 80%;
+		height: 1060px;
+		border: none;
+		background: white;
+	}
+
+	.resume-button {
+		margin-top: 50px;
+	}
