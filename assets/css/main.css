@@ -8663,3 +8663,10 @@ input, select, textarea {
 	.hi {
 		margin-left: -10px;
 	}
+
+	.center-title {
+		display: flex;
+		flex-direction: column;
+		height: auto;
+		width: 100%;
+	}
